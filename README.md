@@ -1,5 +1,6 @@
 # Grep para Hackers
 
+<img src="maxresdefault(1).png" title="Happy Hacking!!">
 
 El comando `grep` es una herramienta de búsqueda de texto que se utiliza en sistemas operativos Unix, Linux y macOS.
 Su nombre proviene de "Global Regular Expression Print" ("Impresión global de expresiones regulares", en español).
